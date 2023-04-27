@@ -4,6 +4,10 @@
 
 Horiseon: the heart of your marketing strategy. Whether it is the optimization of your search engine or the management of your image in the online world, Horiseon is here!
 
+## Credits 
+
+Thank you to https://github.com/Xandromus for providing the starter code
+
 ## Screenshots
 
 
