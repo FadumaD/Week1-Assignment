@@ -12,6 +12,7 @@ Here is the deployed link
  https://fadumad.github.io/Week1-Assignment/
  
  Github link 
+ https://github.com/FadumaD/Week1-Assignment/blob/main/README.md
 
 ## Screenshots
 
