@@ -8,6 +8,11 @@ Horiseon: the heart of your marketing strategy. Whether it is the optimization o
 
 Thank you to https://github.com/Xandromus for providing the starter code
 
+Here is the deployed link 
+ https://fadumad.github.io/Week1-Assignment/
+ 
+ Github link 
+
 ## Screenshots
 
 
